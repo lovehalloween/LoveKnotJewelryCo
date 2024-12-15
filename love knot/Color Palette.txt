@@ -1,0 +1,4 @@
+Color Palette: 
+Rose gold (#B76E79) = 183, 110, 121
+cream (#F5F5DC) = 245, 245, 220
+black
